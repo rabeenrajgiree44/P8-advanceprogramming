@@ -1,0 +1,11 @@
+D:\visualstudio\encapsulartion\encapsulartion\bin\Debug\netcoreapp3.1\encapsulartion.exe
+D:\visualstudio\encapsulartion\encapsulartion\bin\Debug\netcoreapp3.1\encapsulartion.deps.json
+D:\visualstudio\encapsulartion\encapsulartion\bin\Debug\netcoreapp3.1\encapsulartion.runtimeconfig.json
+D:\visualstudio\encapsulartion\encapsulartion\bin\Debug\netcoreapp3.1\encapsulartion.runtimeconfig.dev.json
+D:\visualstudio\encapsulartion\encapsulartion\bin\Debug\netcoreapp3.1\encapsulartion.dll
+D:\visualstudio\encapsulartion\encapsulartion\bin\Debug\netcoreapp3.1\encapsulartion.pdb
+D:\visualstudio\encapsulartion\encapsulartion\obj\Debug\netcoreapp3.1\encapsulartion.csprojAssemblyReference.cache
+D:\visualstudio\encapsulartion\encapsulartion\obj\Debug\netcoreapp3.1\encapsulartion.AssemblyInfoInputs.cache
+D:\visualstudio\encapsulartion\encapsulartion\obj\Debug\netcoreapp3.1\encapsulartion.AssemblyInfo.cs
+D:\visualstudio\encapsulartion\encapsulartion\obj\Debug\netcoreapp3.1\encapsulartion.dll
+D:\visualstudio\encapsulartion\encapsulartion\obj\Debug\netcoreapp3.1\encapsulartion.pdb

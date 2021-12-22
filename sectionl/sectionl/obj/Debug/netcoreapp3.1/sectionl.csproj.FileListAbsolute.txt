@@ -1,0 +1,11 @@
+D:\visualstudio\sectionl\sectionl\bin\Debug\netcoreapp3.1\sectionl.exe
+D:\visualstudio\sectionl\sectionl\bin\Debug\netcoreapp3.1\sectionl.deps.json
+D:\visualstudio\sectionl\sectionl\bin\Debug\netcoreapp3.1\sectionl.runtimeconfig.json
+D:\visualstudio\sectionl\sectionl\bin\Debug\netcoreapp3.1\sectionl.runtimeconfig.dev.json
+D:\visualstudio\sectionl\sectionl\bin\Debug\netcoreapp3.1\sectionl.dll
+D:\visualstudio\sectionl\sectionl\bin\Debug\netcoreapp3.1\sectionl.pdb
+D:\visualstudio\sectionl\sectionl\obj\Debug\netcoreapp3.1\sectionl.AssemblyInfoInputs.cache
+D:\visualstudio\sectionl\sectionl\obj\Debug\netcoreapp3.1\sectionl.AssemblyInfo.cs
+D:\visualstudio\sectionl\sectionl\obj\Debug\netcoreapp3.1\sectionl.dll
+D:\visualstudio\sectionl\sectionl\obj\Debug\netcoreapp3.1\sectionl.pdb
+D:\visualstudio\sectionl\sectionl\obj\Debug\netcoreapp3.1\sectionl.csprojAssemblyReference.cache
